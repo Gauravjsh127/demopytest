@@ -1,4 +1,6 @@
 # demopytest
 demo github actions
 
-test
+python3 -m venv venv    
+source venv/bin/activate
+
